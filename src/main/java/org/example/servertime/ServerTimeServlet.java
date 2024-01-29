@@ -1,4 +1,4 @@
-package com.example.servertime;
+package org.example.servertime;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
